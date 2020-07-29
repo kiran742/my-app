@@ -21,10 +21,10 @@ pipeline{
                          ssh ubuntu@172.31.34.138 /opt/tomcat/startup.sh
                         
                         """
-                  
+              }  
             }    
            
-        }
+        
        
     }
 }
